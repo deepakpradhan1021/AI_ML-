@@ -1,0 +1,12 @@
+a=input("enter ur name:")
+b=int(input("enter ur age:"))
+n1=int(input("enter the 1st num:"))
+n2=int(input("enter the 2nd num:"))
+
+print(f"welcome {a}")
+print(f"ur age is {b} years old!")
+print(n1+n2)
+print(n1*n2)
+print(n1>n2)
+print(b>=18)
+print(n1**2)
