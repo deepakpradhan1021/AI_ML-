@@ -1,0 +1,42 @@
+1) ATM
+input - current balance and withdrawal amount.
+if withdrawal amount is greater than current balance then print insufficient balance.
+but if current balance is greater than the withdrawal amount then withdraw succesuful with showing (current balance- withdrawala\ amount) 
+
+
+
+2)student result
+input- name,marks
+print- grade according to marks like 
+    if  marks -     90+ = a+
+                    80+ = b
+                    70+ = c
+                    40+ = d
+otherwise print fail !
+
+
+
+3)movie ticket
+input- vip(yes/no),age
+if member is yes then the person is allowed 
+and if age >=18 then only he is allowed
+otherwise the person is not allowed
+
+
+
+4)login system
+input- username , password
+if username="admin" and password="p123"
+        then only the user is allowed 
+otherwise the user is not .
+
+
+
+5)admisssion system
+input- name, age , marks , percentage
+if a student is principal child(yes/no)
+        then student is allowed 
+and if the age>=18 , marks>=60 , perentage>=70 
+            then only student is allowed for admission 
+otherwise student is not allowed!
+
